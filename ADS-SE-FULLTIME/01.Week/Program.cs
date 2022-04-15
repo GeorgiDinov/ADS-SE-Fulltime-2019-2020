@@ -122,29 +122,29 @@ namespace Week_1
             }
         }
 
-        static void Main(string[] args)
-        {
-            /*
-            int[] arr = new int[10];
-            GenerateRandom(arr);
-            PrintArray(arr);
-            Console.WriteLine("Max element is: " + Max(arr));
-            double average = Average(arr);
-            Console.WriteLine("Average is: " + average);
-            Console.WriteLine("Nearest to average is: " + NearestAverage(average, arr));
-            */
+        //static void Main(string[] args)
+        //{
+        //    /*
+        //    int[] arr = new int[10];
+        //    GenerateRandom(arr);
+        //    PrintArray(arr);
+        //    Console.WriteLine("Max element is: " + Max(arr));
+        //    double average = Average(arr);
+        //    Console.WriteLine("Average is: " + average);
+        //    Console.WriteLine("Nearest to average is: " + NearestAverage(average, arr));
+        //    */
 
-            //EratostenPrimes(100);
-
-
+        //    //EratostenPrimes(100);
 
 
-            int[,] arr = new int[5, 5];
 
-            RandomMatrix(arr);
 
-            PrintMatrix(arr);
+        //    int[,] arr = new int[5, 5];
 
-        }
+        //    RandomMatrix(arr);
+
+        //    PrintMatrix(arr);
+
+        //}
     }
 }

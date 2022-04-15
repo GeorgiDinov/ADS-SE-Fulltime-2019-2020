@@ -18,11 +18,11 @@ namespace _09.Week
 
 
             Graph graphInstance = new Graph(graph);
-            graphInstance.Dijkstra(0);
+            //graphInstance.Dijkstra(0);
 
-            graphInstance.TraverseDFS(0);
-            Console.WriteLine();
-            graphInstance.TraverseDFSRecursive(0);
+            //graphInstance.TraverseDFS(0);
+            //Console.WriteLine();
+            //graphInstance.TraverseDFSRecursive(0);
         }
     }
 }

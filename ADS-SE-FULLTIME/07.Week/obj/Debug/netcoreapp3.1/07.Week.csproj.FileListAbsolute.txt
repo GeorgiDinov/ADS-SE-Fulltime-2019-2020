@@ -1,0 +1,14 @@
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\07.Week\bin\Debug\netcoreapp3.1\07.Week.exe
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\07.Week\bin\Debug\netcoreapp3.1\07.Week.deps.json
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\07.Week\bin\Debug\netcoreapp3.1\07.Week.runtimeconfig.json
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\07.Week\bin\Debug\netcoreapp3.1\07.Week.runtimeconfig.dev.json
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\07.Week\bin\Debug\netcoreapp3.1\07.Week.dll
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\07.Week\bin\Debug\netcoreapp3.1\07.Week.pdb
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\07.Week\obj\Debug\netcoreapp3.1\07.Week.csproj.AssemblyReference.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\07.Week\obj\Debug\netcoreapp3.1\07.Week.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\07.Week\obj\Debug\netcoreapp3.1\07.Week.AssemblyInfoInputs.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\07.Week\obj\Debug\netcoreapp3.1\07.Week.AssemblyInfo.cs
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\07.Week\obj\Debug\netcoreapp3.1\07.Week.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\07.Week\obj\Debug\netcoreapp3.1\07.Week.dll
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\07.Week\obj\Debug\netcoreapp3.1\07.Week.pdb
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\07.Week\obj\Debug\netcoreapp3.1\07.Week.genruntimeconfig.cache

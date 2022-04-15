@@ -1,0 +1,5 @@
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\09.Week\obj\Debug\netcoreapp3.1\09.Week.csproj.AssemblyReference.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\09.Week\obj\Debug\netcoreapp3.1\09.Week.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\09.Week\obj\Debug\netcoreapp3.1\09.Week.AssemblyInfoInputs.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\09.Week\obj\Debug\netcoreapp3.1\09.Week.AssemblyInfo.cs
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\09.Week\obj\Debug\netcoreapp3.1\09.Week.csproj.CoreCompileInputs.cache

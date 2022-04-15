@@ -10,3 +10,17 @@
 /Users/hasangyulyustan/projects/uni/asd-2019-2020-repo/ADS-SE-Fulltime-2019-2020/ADS-SE-FULLTIME/Other/obj/Debug/netcoreapp3.1/Other.dll
 /Users/hasangyulyustan/projects/uni/asd-2019-2020-repo/ADS-SE-Fulltime-2019-2020/ADS-SE-FULLTIME/Other/obj/Debug/netcoreapp3.1/Other.pdb
 /Users/hasangyulyustan/projects/uni/asd-2019-2020-repo/ADS-SE-Fulltime-2019-2020/ADS-SE-FULLTIME/Other/obj/Debug/netcoreapp3.1/Other.genruntimeconfig.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\Other\bin\Debug\netcoreapp3.1\Other.exe
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\Other\bin\Debug\netcoreapp3.1\Other.deps.json
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\Other\bin\Debug\netcoreapp3.1\Other.runtimeconfig.json
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\Other\bin\Debug\netcoreapp3.1\Other.runtimeconfig.dev.json
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\Other\bin\Debug\netcoreapp3.1\Other.dll
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\Other\bin\Debug\netcoreapp3.1\Other.pdb
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\Other\obj\Debug\netcoreapp3.1\Other.csproj.AssemblyReference.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\Other\obj\Debug\netcoreapp3.1\Other.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\Other\obj\Debug\netcoreapp3.1\Other.AssemblyInfoInputs.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\Other\obj\Debug\netcoreapp3.1\Other.AssemblyInfo.cs
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\Other\obj\Debug\netcoreapp3.1\Other.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\Other\obj\Debug\netcoreapp3.1\Other.dll
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\Other\obj\Debug\netcoreapp3.1\Other.pdb
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\Other\obj\Debug\netcoreapp3.1\Other.genruntimeconfig.cache

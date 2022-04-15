@@ -1,0 +1,15 @@
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\01.Week\bin\Debug\net6.0\01.Week.exe
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\01.Week\bin\Debug\net6.0\01.Week.deps.json
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\01.Week\bin\Debug\net6.0\01.Week.runtimeconfig.json
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\01.Week\bin\Debug\net6.0\01.Week.dll
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\01.Week\bin\Debug\net6.0\01.Week.pdb
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\01.Week\obj\Debug\net6.0\01.Week.csproj.AssemblyReference.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\01.Week\obj\Debug\net6.0\01.Week.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\01.Week\obj\Debug\net6.0\01.Week.AssemblyInfoInputs.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\01.Week\obj\Debug\net6.0\01.Week.AssemblyInfo.cs
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\01.Week\obj\Debug\net6.0\01.Week.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\01.Week\obj\Debug\net6.0\01.Week.dll
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\01.Week\obj\Debug\net6.0\refint\01.Week.dll
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\01.Week\obj\Debug\net6.0\01.Week.pdb
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\01.Week\obj\Debug\net6.0\01.Week.genruntimeconfig.cache
+D:\UNIVERSITY\Пловдивски Университет\Алгоритми и структури от данни\ADS-SE-Fulltime-2019-2020\ADS-SE-FULLTIME\01.Week\obj\Debug\net6.0\ref\01.Week.dll

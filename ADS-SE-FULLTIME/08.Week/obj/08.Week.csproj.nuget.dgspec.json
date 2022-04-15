@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hasangyulyustan/projects/uni/asd-2019-2020-repo/ADS-SE-Fulltime-2019-2020/ADS-SE-FULLTIME/08.Week/08.Week.csproj": {}
+    "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\ADS-SE-Fulltime-2019-2020\\ADS-SE-FULLTIME\\08.Week\\08.Week.csproj": {}
   },
   "projects": {
-    "/Users/hasangyulyustan/projects/uni/asd-2019-2020-repo/ADS-SE-Fulltime-2019-2020/ADS-SE-FULLTIME/08.Week/08.Week.csproj": {
+    "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\ADS-SE-Fulltime-2019-2020\\ADS-SE-FULLTIME\\08.Week\\08.Week.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hasangyulyustan/projects/uni/asd-2019-2020-repo/ADS-SE-Fulltime-2019-2020/ADS-SE-FULLTIME/08.Week/08.Week.csproj",
+        "projectUniqueName": "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\ADS-SE-Fulltime-2019-2020\\ADS-SE-FULLTIME\\08.Week\\08.Week.csproj",
         "projectName": "08.Week",
-        "projectPath": "/Users/hasangyulyustan/projects/uni/asd-2019-2020-repo/ADS-SE-Fulltime-2019-2020/ADS-SE-FULLTIME/08.Week/08.Week.csproj",
-        "packagesPath": "/Users/hasangyulyustan/.nuget/packages/",
-        "outputPath": "/Users/hasangyulyustan/projects/uni/asd-2019-2020-repo/ADS-SE-Fulltime-2019-2020/ADS-SE-FULLTIME/08.Week/obj/",
+        "projectPath": "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\ADS-SE-Fulltime-2019-2020\\ADS-SE-FULLTIME\\08.Week\\08.Week.csproj",
+        "packagesPath": "C:\\Users\\facec\\.nuget\\packages\\",
+        "outputPath": "D:\\UNIVERSITY\\Пловдивски Университет\\Алгоритми и структури от данни\\ADS-SE-Fulltime-2019-2020\\ADS-SE-FULLTIME\\08.Week\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/hasangyulyustan/.config/NuGet/NuGet.Config"
+          "C:\\Users\\facec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,7 +37,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -53,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
