@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Week_2
+namespace _02.Week
 {
     class Program
     {
@@ -112,73 +112,73 @@ namespace Week_2
 
         //####################################################################################
 
-        static void Main(string[] args)
-        {
-            //PrintInt(1);
+    //    static void Main(string[] args)
+    //    {
+    //        PrintInt(1);
 
-            Console.WriteLine(GCDRecursive(18, 12));
+    //        Console.WriteLine(GCDRecursive(18, 12));
 
-            //int[,] matrix = new int[5, 4]; // {{1,2 3}, {4, 5 ,6}}
+    //        int[,] matrix = new int[5, 4]; // {{1,2 3}, {4, 5 ,6}}
 
-            //GenerateRandomMatrix(matrix);
-            //PrintMatrix(matrix);
-
-
-            //int a = 1;
-            //int b = 2;
-
-            //a = a + b; // a = 3; b = 2;
-            //b = a - b; // a = 3; b = 1;
-            //a = a - b; // a = 2; b = 1;
+    //        GenerateRandomMatrix(matrix);
+    //        PrintMatrix(matrix);
 
 
-            /*
-            int[] arr1 = { 1, 3, 5, 6, 8};
-            int[] arr2 = { 2, 4, 7, 9, 10, 11 };
+    //        int a = 1;
+    //        int b = 2;
+
+    //        a = a + b; // a = 3; b = 2;
+    //        b = a - b; // a = 3; b = 1;
+    //        a = a - b; // a = 2; b = 1;
 
 
-            int[] arr3 = new int[arr1.Length + arr2.Length];
-
-            int i = 0;
-            int j = 0;
-
-            int k = 0;
-
-            while(k < arr3.Length)
-            {
-                if (i >= arr1.Length)
-                {
-                    arr3[k] = arr2[j];
-                    j++;
-                }
-                else if (j >= arr2.Length)
-                {
-                    arr3[k] = arr1[i];
-                    i++;
-                } else if (arr1[i] < arr2[j])
-                {
-                    arr3[k] = arr1[i];
-                    i++;
-                } else
-                {
-                    arr3[k] = arr2[j];
-                    j++;
-                }
-
-                k++;
-            }
+    //        /*
+    //        int[] arr1 = { 1, 3, 5, 6, 8};
+    //        int[] arr2 = { 2, 4, 7, 9, 10, 11 };
 
 
-            for (int l = 0; l < arr3.Length; l++)
-            {
-                Console.WriteLine(arr3[l]);
-            }
+    //        int[] arr3 = new int[arr1.Length + arr2.Length];
+
+    //        int i = 0;
+    //        int j = 0;
+
+    //        int k = 0;
+
+    //        while(k < arr3.Length)
+    //        {
+    //            if (i >= arr1.Length)
+    //            {
+    //                arr3[k] = arr2[j];
+    //                j++;
+    //            }
+    //            else if (j >= arr2.Length)
+    //            {
+    //                arr3[k] = arr1[i];
+    //                i++;
+    //            } else if (arr1[i] < arr2[j])
+    //            {
+    //                arr3[k] = arr1[i];
+    //                i++;
+    //            } else
+    //            {
+    //                arr3[k] = arr2[j];
+    //                j++;
+    //            }
+
+    //            k++;
+    //        }
+
+
+    //        for (int l = 0; l < arr3.Length; l++)
+    //        {
+    //            Console.WriteLine(arr3[l]);
+    //        }
 
 
 
-            //{ 1, 2, 3, 4, 5, 6.... 11}
+    //        { 1, 2, 3, 4, 5, 6.... 11}
 
-    */
-        }
+    //*/
+    //    }
     }
 }

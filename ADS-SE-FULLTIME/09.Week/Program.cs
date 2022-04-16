@@ -17,12 +17,12 @@ namespace _09.Week
                                       { 0, 0, 2, 0, 0, 0, 6, 7, 0 } };
 
 
-            Graph graphInstance = new Graph(graph);
-            graphInstance.Dijkstra(0);
+            //Graph graphInstance = new Graph(graph);
+            //graphInstance.Dijkstra(0);
 
-            graphInstance.TraverseDFS(0);
-            Console.WriteLine();
-            graphInstance.TraverseDFSRecursive(0);
+            //graphInstance.TraverseDFS(0);
+            //Console.WriteLine();
+            //graphInstance.TraverseDFSRecursive(0);
         }
     }
 }
