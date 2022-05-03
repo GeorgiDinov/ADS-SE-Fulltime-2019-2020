@@ -108,20 +108,20 @@ namespace Week_3
             }
         }
 
-        static void Main(string[] args)
-        {
-            //int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8};
-            //int key = 7;
+        //static void Main(string[] args)
+        //{
+        //    //int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8};
+        //    //int key = 7;
 
-            //Console.WriteLine("element: " + key + " is at position: " + Find(arr, key));
-            //Console.WriteLine("element: " + key + " is at position: " + BinarySearch(arr, key));
+        //    //Console.WriteLine("element: " + key + " is at position: " + Find(arr, key));
+        //    //Console.WriteLine("element: " + key + " is at position: " + BinarySearch(arr, key));
 
 
-            int[] arr = { 5, 8, -1, 16, 0, -7, 7 };
+        //    int[] arr = { 5, 8, -1, 16, 0, -7, 7 };
 
-            InsertionSort(arr);
-            PrintArray(arr);
+        //    InsertionSort(arr);
+        //    PrintArray(arr);
 
-        }
+        //}
     }
 }
