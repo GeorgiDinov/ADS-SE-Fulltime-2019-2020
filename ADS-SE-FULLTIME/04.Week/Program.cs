@@ -120,17 +120,17 @@ namespace Week_4
             }
         }
 
-        static void Main(string[] args)
-        {
-            int[] arr = { 1, 5, 4, 11, 20, 8, 2, 98, 90, 16 };
+        //static void Main(string[] args)
+        //{
+        //    int[] arr = { 1, 5, 4, 11, 20, 8, 2, 98, 90, 16 };
 
-            QuickSort(arr, 0, arr.Length - 1);
+        //    QuickSort(arr, 0, arr.Length - 1);
 
-            for (int i = 0; i < arr.Length; i++)
-            {
-                Console.Write(arr[i] + ", ");
-            }
+        //    for (int i = 0; i < arr.Length; i++)
+        //    {
+        //        Console.Write(arr[i] + ", ");
+        //    }
 
-        }
+        //}
     }
 }
